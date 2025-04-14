@@ -66,7 +66,7 @@ This repository contains **three interactive Jupyter Notebooks** demonstrating d
 
 | Notebook | Description |
 |----------|------------|
-| **[Data Commons Basics](https://github.com/Nastiiasaenko/Data-Commons-/blob/main/01_data_commons_basics.ipynb)** | Introduction to the API, retrieving properties, and exploring the graph structure. |
+| **[Data Commons Basics](https://colab.research.google.com/github/Nastiiasaenko/Data-Commons-/blob/main/01_data_commons_basics.ipynb)** | Introduction to the API, retrieving properties, and exploring the graph structure. |
 | **[Exploring Interconnectivity](https://colab.research.google.com/github/Nastiiasaenko/Data-Commons-/blob/main/03_exploring_graphs.ipynb)** | Advanced queries using `get_triples()`, `get_places_in()`, and visualizing networks. |
 | **[Building Emissions Dataset](https://colab.research.google.com/github/Nastiiasaenko/Data-Commons-/blob/main/02_environmental_exploration.ipynb)** | Retrieving environmental data (CO₂ emissions, methane levels) and constructing time-series datasets. |
 
